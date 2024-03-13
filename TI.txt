@@ -1,0 +1,8 @@
+OPENID Connect: Protocolo de autenticação relacionado ao (OAUTH)
+permite aos clientes/aplicações a verificação da identidade do usuário final integrado aos 
+recursos do Servidor de Autorização.
+baseada em  API/RESTFUL 
+
+Keycloak: Ferramenta de gerenciamento de acesso e identidade 
+baseada em API/restful
+Possui interface de gestão 
